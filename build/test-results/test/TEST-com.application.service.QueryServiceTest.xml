@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.application.service.QueryServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-12-08T06:20:55" hostname="Adityas-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="testGetMetadataByOrganizationName" classname="com.application.service.QueryServiceTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
