@@ -15,7 +15,7 @@ Properties need to be set as VM args as shown below:
 -Des.tcp.port=9300
 ```
 
-Also elasticsearch host and port is needed. This program will only communicate through Transport client of elasticsearch.
+Elasticsearch host and port is needed. This program will only communicate through Transport client of elasticsearch.
 
 ## Run
 
